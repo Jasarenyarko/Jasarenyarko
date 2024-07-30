@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning projects
 - 📫 How to reach me:
-    Twitter -----> @jedidiahasare_
+    Twitter -----> @jasarenyarko
   
 
