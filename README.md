@@ -1,4 +1,4 @@
--👋 Hi, I’m @Jasarenyarko
+-👋 Hi, I’m Jedidiah
 
 -👀 I’m transitioning from civil engineering to software engineering, with a focus on Artificial Intelligence and Backend Engineering.
 
